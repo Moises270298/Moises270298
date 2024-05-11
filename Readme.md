@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um profissional dedicado e apaixonado pel
 
 ## 🚀 Sobre mim
 Como desenvolvedor full-stack, tenho experiência em todas as etapas do ciclo de vida do desenvolvimento de software, desde o levantamento de requisitos até a manutenção contínua.
-...
+
 
 
 
