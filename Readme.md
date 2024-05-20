@@ -3,7 +3,6 @@
 Profissional de Desenvolvimento de Software e Educação
 Bem-vindo ao meu perfil no GitHub! Sou um profissional dedicado e apaixonado pela área de desenvolvimento de software, com experiência tanto no desenvolvimento de soluções tecnológicas quanto na educação técnica.
 
-
 ## 🛠 Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
