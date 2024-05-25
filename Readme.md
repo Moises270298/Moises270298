@@ -40,7 +40,6 @@ Desenvolvedor de software com mais de 4 anos de experiência em desenvolvimento 
 **Graduação em Análise e Desenvolvimento de Sistemas**  
 *ESTÁCIO RIBEIRÃO PRETO, Sorocaba*  
 *Conclusão: 2023*  
-*Média Geral: 8,9*
 
 **Técnico em Desenvolvimento de Sistemas**  
 *ETEC Fernando Prestes, Sorocaba*  
